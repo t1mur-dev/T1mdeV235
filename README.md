@@ -54,6 +54,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=T1mdeV235&theme=tokyonight)
 
 ---
-<div align="center">
-<img src="https://ghchart.rshah.org/T1mdeV235" alt="GitHub Chart" />
-</div>
+
