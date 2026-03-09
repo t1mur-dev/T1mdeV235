@@ -1,89 +1,60 @@
-# 🛡️ T1mdeV235 | Cybersecurity
+# ⚡️ T1mdeV235: Digital Architect & Security Operative ⚡️
 
-████████╗██╗███╗   ███╗██████╗ ███████╗██╗   ██╗
-╚══██╔══╝██║████╗ ████║██╔══██╗██╔════╝██║   ██║
-   ██║   ██║██╔████╔██║██║  ██║█████╗  ██║   ██║
-   ██║   ██║██║╚██╔╝██║██║  ██║██╔══╝  ╚██╗ ██╔╝
-   ██║   ██║██║ ╚═╝ ██║██████╔╝███████╗ ╚████╔╝
-   ╚═╝   ╚═╝╚═╝     ╚═╝╚═════╝ ╚══════╝  ╚═══╝
-
-
-<div align="center">
-
-# 🛡️ T1mdeV235
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Learner;Frontend+Developer;Linux+User;Future+Ethical+Hacker;Building+Secure+Web+Apps"/>
-
-</div>
+> **"Building resilient interfaces. Breaking insecure logic."**
+> *Frontend Developer by day | Penetration Tester by night.*
 
 ---
 
-```bash
-> booting system...
-> loading frontend modules...
-> loading cybersecurity tools...
-> user: T1mdeV235
-> status: ONLINE
-```
+### 🛡️ System Overview [User: T1mdeV235]
+
+Привет! Я — **T1mdeV235**, Frontend-разработчик с глубоким уклоном в **Cybersecurity**. Я не просто создаю красивые интерфейсы на React, я проектирую их так, чтобы они выдерживали атаки любой сложности. Мой код — это сочетание эстетики киберпанка и безопасности уровня Enterprise.
+
+* 🔭 **Current Mission:** Разработка защищенных веб-приложений и аудит безопасности клиентской части.
+* 🧬 **Focus:** Zero Trust Architecture, Web Performance, UI/UX Crafting.
+* ⚡ **Fun Fact:** Могу объяснить разницу между DOM и Shadow DOM, пока Burp Suite сканирует порты.
 
 ---
 
-# ⚡ TECH STACK
+### 🛠️ Tech Stack & Arsenal
 
-### 🌐 Frontend
-
-![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-
-### 🔐 Cybersecurity
-
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Networking](https://img.shields.io/badge/Networking-000?style=for-the-badge)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | `React`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Redux Toolkit` |
+| **Cybersec** | `OWASP Top 10`, `Burp Suite`, `Metasploit`, `Nmap`, `Wireshark` |
+| **Backend/Env** | `Node.js`, `Express`, `Docker`, `Linux (Kali/Arch)`, `Git` |
 
 ---
 
-# 🧠 CURRENT MISSION
+### 📂 Operational Log (Featured Projects)
 
-```
-[✓] Learn Linux
-[✓] Learn Networking
-[✓] Build Frontend Projects
-[ ] Create Security Tools
-[ ] Bug Bounty
-[ ] Reverse Engineering
-```
+#### 🛡️ [Secure-Vault-UI](https://github.com/T1mdeV235/secure-vault)
+*Прототип защищенного менеджера паролей.*
+* **Tech:** React + AES-256 Encryption.
+* **Feature:** Реализована кастомная защита от XSS и CSRF, а также обфускация данных в Redux Store.
 
----
+#### 🕵️ [Ghost-Scanner-JS](https://github.com/T1mdeV235/ghost-scanner)
+*Легковесный сканер уязвимостей для фронтенд-зависимостей.*
+* **Tech:** Node.js, CLI.
+* **Feature:** Автоматически находит устаревшие пакеты с известными CVE в проекте.
 
-# 📊 GITHUB STATS
-
-![stats](https://github-readme-stats.vercel.app/api?username=T1mdeV235&show_icons=true&theme=tokyonight)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1mdeV235&layout=compact&theme=tokyonight)
+#### 🪐 [Neon-Dashboard](https://github.com/T1mdeV235/neon-dashboard)
+*Высокопроизводительный UI в стиле Cyberpunk.*
+* **Tech:** Next.js + Framer Motion.
+* **Feature:** Сложные анимации при 60 FPS и адаптивная верстка с поддержкой Glassmorphism.
 
 ---
 
-# 🔥 STREAK
+### 📈 System Status
 
-![streak](https://streak-stats.demolab.com/?user=T1mdeV235&theme=tokyonight)
+```javascript
+const devStatus = {
+  user: "T1mdeV235",
+  status: "Creative Mode",
+  security: "Enforcing Policies",
+  coffeeLevel: "Critical",
+  openForCollab: true
+};
 
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-![snake](https://raw.githubusercontent.com/T1mdeV235/T1mdeV235/output/github-contribution-grid-snake.svg)
-
----
-
-# 💀 CYBER QUOTE
-
-> "Security is not a product — it's a process."
-
----
-
-# 👁 PROFILE VIEWS
-
-![views](https://komarev.com/ghpvc/?username=T1mdeV235&color=00ff00)
+if (devStatus.openForCollab) {
+  console.log(`Contact T1mdeV235: Let's build (or break) something amazing!`);
+}
