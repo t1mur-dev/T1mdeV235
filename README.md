@@ -50,8 +50,16 @@
 
 # 📊 GITHUB STATS
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=T1mdeV235&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T1mdeV235&layout=compact&theme=tokyonight)
+# 📊 GITHUB STATS
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=T1mdeV235&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1mdeV235&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+# 🐍 CONTRIBUTION SNAKE
+<p align="center">
+  <img src="https://raw.githubusercontent.com/T1mdeV235/T1mdeV235/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
 ---
 
@@ -61,12 +69,5 @@
 
 ---
 
-🐍 CONTRIBUTION SNAKE
 
-![Snake](https://raw.githubusercontent.com/T1mdeV235/T1mdeV235/master/output/github-contribution-grid-snake.svg)
-
-
-
-
-> "Security is not a product — it's a process."
 
