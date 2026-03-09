@@ -1,32 +1,38 @@
-# ⚡ ERROR: SYSTEM_OVERRIDE_DETECTED ⚡
+# 🌌 Neon Hacker | Frontend Alchemist 👾
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=USER:+T1mdeV235;ACCESS:+GRANTED;ROLE:+SECURE_FRONTEND_ARCHITECT;STATUS:+HACKING_THE_DOM..." alt="Typing SVG" />
-</p>
+Привет! Я **[Твоё Имя]** — объединяю **frontend магию** с **кибербезопасностью**, чтобы веб был красивым и непробиваемым.  
+Мой код — мой щит, а интернет — моя территория.  
 
 ---
 
-### 🟢 BOOTING SESSION...
-```bash
-[  OK  ] Loading Neural_Network...
-[  OK  ] Initializing React_Framework...
-[  OK  ] Encrypting Frontend_Assets...
-[ WARN ] 235 vulnerabilities found in legacy code. Patching...
-[  OK  ] System Ready. Welcome, T1mdeV235.
+## 🛠️ Навыки
 
+- **Frontend:** `HTML5 | CSS3 | JavaScript | React | Tailwind | TypeScript`  
+- **CyberSec:** `PenTest | OWASP | Burp Suite | Wireshark | Ethical Hacking`  
+- **Инструменты:** `Git | Docker | Node.js | VS Code | Figma`  
+- **Секретные штуки:** `CI/CD | DevSecOps | Web Security Automation | XSS & CSRF Protection`  
 
+---
 
-special_abilities:
-  - Web_Pentesting: [OWASP_Top_10, XSS_Expert, SQLi_Hunter]
-  - UI_UX_Engineering: [Framer_Motion, Atomic_Design, Performance_Opt]
-  - Security_Ops: [Burp_Suite_Pro, Wireshark, Metasploit]
+## 💻 Проекты
 
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| **🌐 Phantom Dashboard** | Панель мониторинга уязвимостей в реальном времени | React, Tailwind, Node.js |
+| **🤖 Hacktober Bot** | Автоматический сканер открытых репозиториев | Python, Selenium, OWASP ZAP |
+| **🛡️ Secure Portfolio** | Личный фронтенд-портфель с защитой от XSS/CSRF | React, Tailwind, Security Headers |
+| **💾 CryptoWall** | Мини-шифровальщик текстов с AES и Base64 | JavaScript, CryptoJS |
 
-# Как связаться с T1mdeV235
-contact_info = {
-    "terminal": "ssh t1mdev235@network.io",
-    "telegram": "[https://t.me/T1mdeV235](https://t.me/T1mdeV235)",
-    "email": "T1mdeV235@proton.me"
+---
+
+## 🌈 Визуальный стиль
+
+```css
+body {
+  background: radial-gradient(circle, #0ff 0%, #00f 100%);
+  color: #0ff;
+  font-family: "Courier New", monospace;
 }
-
-print(f"Executing handshake with {contact_info['terminal']}...")
+a:hover {
+  text-shadow: 0 0 10px #0ff, 0 0 20px #f0f, 0 0 30px #0ff;
+}
