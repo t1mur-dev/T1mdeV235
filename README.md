@@ -1,6 +1,6 @@
 <div align="center">
 
-#  T1mdeV235
+# 🖥️ T1mdeV235 🛡️
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Learner;Frontend+Developer;Linux+User;Future+Ethical+Hacker;Building+Secure+Web+Apps"/>
 
