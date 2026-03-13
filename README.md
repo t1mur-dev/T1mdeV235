@@ -81,7 +81,9 @@
 <img src="https://streak-stats.demolab.com?user=t1mur-dev&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
 
 ---
+![Commits per hour](https://github-readme-activity-graph.vercel.app/graph?username=t1mur-dev&theme=chartreuse-dark&area=true&hide_border=true)
 
+</p>
 
 ### 🧩 Most Used Languages
 
