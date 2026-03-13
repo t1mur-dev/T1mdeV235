@@ -4,15 +4,6 @@
 
 # 🖥️ t1mur-dev🛡️
 📍 Uzbekistan, Khorezm
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Learner;Frontend+Developer;Linux+User;Future+Ethical+Hacker;Building+Secure+Web+Apps"/>
-
-</div>
-<div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
-</div>
-
----
 ### 📬 Connect with Me  
 
 <p align="center">
@@ -22,13 +13,20 @@
   <a href="https://www.instagram.com/r_timurbek">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
-  <a href="https://www.facebook.com/share/1EZqQrtBKf/">
-    <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />
-  </a>
   <a href="https://discord.com/users/805123459566010417">
     <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
   </a>
 </p>
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Learner;Frontend+Developer;Linux+User;Future+Ethical+Hacker;Building+Secure+Web+Apps"/>
+
+</div>
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
+
+---
 
 ```bash
 > booting system...
